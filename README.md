@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @beanavas
+- 👀 I’m interested in making engineering fun and accesible! 
+- 🌱 I’m currently a computer engineering student at the University of Central Florida :)
+- 💞️ I’m looking to collaborate on C, python & Java projects!
+- 📫 How to reach me - beanavasaguilera@gmail.com
+- ⚡ Fun fact: I love traveling! I have traveled to 20 different countries. 
